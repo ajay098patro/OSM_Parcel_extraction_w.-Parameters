@@ -1,0 +1,14 @@
+name: parcel-assessment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - geopandas
+  - shapely
+  - pandas
+  - requests
+  - geopy
+  - jupyterlab
+  - matplotlib
+  - notebook
+  - geojson
